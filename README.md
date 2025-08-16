@@ -36,9 +36,9 @@ I’ll keep updating this repo as I solve more problems.
 ---
 
 ### 📬 Connect with Me
-- [LinkedIn](#)  
-- [GitHub](#)  
-- [LeetCode Profile](#)  
+- [LinkedIn](https://www.linkedin.com/in/mranal0/)  
+- [GitHub](https://github.com/mranal0)  
+- [LeetCode Profile](https://leetcode.com/u/mranal0/)  
 
 ---
 
