@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
 # 🚀 LeetCode Solutions by Mranal
 
 Welcome to my **LeetCode Solutions** repository! ✨  
@@ -5,6 +7,7 @@ Here I upload my solutions to various **LeetCode problems** that I solve regular
 
 This repository contains all of my **LeetCode problem solutions**, stored in a single folder:
 
+<!-- activity graph heroku-app end -->
 ## 🔍 How to Use
 - All problems are inside the **`Solutions/`** folder.  
 - File names usually match the problem title (underscores instead of spaces).  
