@@ -13,6 +13,25 @@ This repository contains all of my **LeetCode problem solutions**, stored in a s
 - File names usually match the problem title (underscores instead of spaces).  
 - Use the search bar on GitHub to quickly find a problem by name.  
 
+## 📈 View Changes & Track Progress
+Want to see what's new or track your progress? Use the built-in change viewer:
+
+```bash
+# View recent changes (last 7 days)
+python3 view_changes.py
+
+# View changes from last 30 days  
+python3 view_changes.py --recent 30
+
+# Show solution statistics
+python3 view_changes.py --stats
+
+# List all solutions
+python3 view_changes.py --list
+```
+
+You can also check the **`CHANGELOG.md`** file for a detailed history of all additions and updates! 📝
+
 
 ## 🛠️ Languages Used
 
